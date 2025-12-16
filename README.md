@@ -43,10 +43,11 @@ The model successfully predicts house prices based on user-provided inputs with 
 In addition to the notebook implementation, this project is also developed as a **Flask-based web application** using VS Code.
 
 The web app allows users to:
-- Enter Annual Income and Spending Score
-- Predict the customer segment using a trained K-Means model
-- View results through an interactive UI
+- Enter square footage, number of bedrooms, and bathrooms
+- Predict house prices using a trained Linear Regression model
+- View predictions through an interactive and user-friendly UI
 
 🔗 **Web App Source Code**:  
-👉 https://github.com/Santhosh-KumarB/PRODIGY_ML_02_APP
+👉 https://github.com/Santhosh-KumarB/PRODIGY_ML_01_APP
+
 
