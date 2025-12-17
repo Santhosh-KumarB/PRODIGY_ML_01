@@ -50,4 +50,8 @@ The web app allows users to:
 🔗 **Web App Source Code**:  
 👉 https://github.com/Santhosh-KumarB/PRODIGY_ML_01_APP
 
+---
+## 🙌 Author
+
+**Santhosh Kumar B**  
 
